@@ -65,12 +65,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ajay-8192/ajay-8192/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/ajay-8192/count.svg?"  />
 </div>
 
+###
 ###
