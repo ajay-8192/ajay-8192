@@ -29,7 +29,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" alt="JavaScript" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" title="Babel" alt="Babel" height="40" />&nbsp;
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" title="Django" alt="Django" height="40" />&nbsp;
-
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" alt="NodeJS" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="Jest" height="40"/>&nbsp;
