@@ -39,7 +39,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajay-8192&theme=dark&background=000000)]http://github-readme-streak-stats.herokuapp.com?user=ajay-8192&theme=dark&background=000000)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajay-8192&theme=dark&background=000000)](http://github-readme-streak-stats.herokuapp.com?user=ajay-8192&theme=dark&background=000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-8192&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-8192&layout=compact&theme=vision-friendly-dark)
 
