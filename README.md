@@ -22,19 +22,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/react/react-ar21.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/redux/redux-ar21.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/css3/css3-ar21.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/babel/babel-ar21.svg" title="Babel" alt="Babel" width="40" height="40" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/django/django-ar21.svg" title="Django" alt="Django" width="40" height="40" />&nbsp;
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/jest/jest-ar21.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/git/git-ar21.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 ---
