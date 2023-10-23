@@ -22,19 +22,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/react/react-ar21.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/redux/redux-ar21.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/css3/css3-ar21.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/babel/babel-ar21.svg" title="Babel" alt="Babel" width="40" height="40" />&nbsp;
-<img src="https://www.vectorlogo.zone/logos/django/django-ar21.svg" title="Django" alt="Django" width="40" height="40" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" height="40"/>&nbsp;
+<!-- <img src="https://www.vectorlogo.zone/logos/redux/redux-ar21.svg" title="Redux" alt="Redux" height="40"/>&nbsp; -->
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"  title="CSS3" alt="CSS" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" alt="JavaScript" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" title="Babel" alt="Babel" height="40" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" title="Django" alt="Django" height="40" />&nbsp;
 
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/jest/jest-ar21.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git/git-ar21.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" alt="NodeJS" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="Jest" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" title="JQuery" alt="JQuery" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" height="40"/>&nbsp;
 </p>
 
 ---
